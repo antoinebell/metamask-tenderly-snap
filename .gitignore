@@ -3,6 +3,7 @@ dist/
 build/
 coverage/
 .cache/
+.idea/
 public/
 
 # Logs
@@ -75,3 +76,6 @@ node_modules/
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# config
+packages/snap/src/configProd.ts
